@@ -1,4 +1,4 @@
-# pycontextmenu
+# PyContextMenu
 Very simple python script for adding a compiled python program to the context menu.
 
 ---
